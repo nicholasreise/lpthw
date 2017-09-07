@@ -7,3 +7,5 @@ weight = input()
 
 #writes a script with the variables pulling from the
 print(f"So, you're {age} old, {height} tall and {weight} heavy.")
+
+print("paulo is funny looking")
